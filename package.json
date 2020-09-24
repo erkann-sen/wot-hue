@@ -1,0 +1,15 @@
+{
+  "name": "hue-td-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "convert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erkan Sen",
+  "license": "ISC",
+  "dependencies": {
+    "js-beautify": "^1.11.0",
+    "request": "^2.88.2"
+  }
+}
